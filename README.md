@@ -12,7 +12,7 @@
 
 ## vs code config
 - install vs code
-- open command palette and search "shell command."  run "install 'code' command in PATH
+- open command palette and search "shell command."  run "install 'code' command in PATH"
         - lets us use `code .` in terminal
 
 ## node config
