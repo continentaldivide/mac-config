@@ -20,6 +20,7 @@
 - install vs code
 - open command palette and search "shell command."  run "install 'code' command in PATH"
         - lets us use `code .` in terminal
+- enable word wrap in settings
 
 ## node config
 - install nvm: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash`
