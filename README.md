@@ -11,6 +11,9 @@
 - install [powerlevel10k](https://github.com/romkatv/powerlevel10k) (follow all relevant instructions on p10k's readme)
 - change default git text editor to nano: `git config --global core.editor "nano"`
 - set git commit author info: `git config --global user.email INSERT EMAIL ADDRESS HERE`
+##### optional:
+- install [homebrew](https://brew.sh/)
+- follow next steps in terminal to add `brew` to PATH
 
 ## vs code config
 - install vs code
@@ -18,6 +21,8 @@
         - lets us use `code .` in terminal
 
 ## node config
+- install nvm: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash`
+- install node: `nvm install --lts`
 
 ## connect to github
 
