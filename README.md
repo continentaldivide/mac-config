@@ -8,6 +8,7 @@
     (check https://ohmyz.sh/#install if needed)
     - if prompted with "No developer tools were found, requesting install," install dev tools (i.e., git) -- should be prompted automatically
 - terminal preferences: change startup profile to 'Homebrew;' change Homebrew settings to font size (18) and window columns/rows (100/24)
+- press cmd-shift-T to show tab bar
 - install [powerlevel10k](https://github.com/romkatv/powerlevel10k) (follow all relevant instructions on p10k's readme)
 - change default git text editor to nano: `git config --global core.editor "nano"`
 - set git commit author info: `git config --global user.email INSERT EMAIL ADDRESS HERE`
