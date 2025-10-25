@@ -18,9 +18,13 @@
 
 ## vs code config
 - install vs code
+- install extensions
+    - prettier
 - open command palette and search "shell command."  run "install 'code' command in PATH"
         - lets us use `code .` in terminal
 - enable word wrap in settings
+- set prettier as default formatter
+- enable format on save
 
 ## node config
 - install nvm: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash`
